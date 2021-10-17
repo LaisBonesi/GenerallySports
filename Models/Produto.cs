@@ -21,5 +21,4 @@ namespace GenerallySports.Models
         public string Inativo { get; set; }
         public string Fotoemstring { get; set; }
     }
-
 }
