@@ -15,6 +15,7 @@ namespace GenerallySports.Models
         public DateTime? DataValidade { get; set; }
         public int? QtdeEstoque { get; set; }
         public int? QtdeEstoqueatual { get; set; }
+
         public string CaminhoFoto { get; set; }
         public decimal PrecoUnitario { get; set; }
         public decimal PrecoVenda { get; set; }
